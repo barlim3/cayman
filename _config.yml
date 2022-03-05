@@ -5,7 +5,8 @@ description:
   In his spare time, he delves into other aspects of programming like Web development, Blockchain and Data Science.<br>
 
 linkedin: https://www.linkedin.com/in/barry-lim-bb37903/
-github.resume: portfolio/assets/Resume_Tech.pdf
+github:
+  resume: portfolio/assets/Resume_Tech.pdf
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
