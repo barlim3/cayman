@@ -15,6 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ![BikeAssignment](./assets/img/BikeAssignment.PNG)
 
 This is a Masters program assignment using an open-source dataset on bike-sharing.
+
 [Tableau Data](https://public.tableau.com/shared/26D3JZ83F?:display_count=n&:origin=viz_share_link)
 
 <!--
