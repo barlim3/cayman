@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 -->
 # Upgrad Bike Assignment using SQL and Tableau
 
-![BikeAssignment](./assets/img/BikeAssignment.png)
+![BikeAssignment](./assets/img/BikeAssignment.PNG)
 
 This is a Masters program assignment using an open-source dataset on bike-sharing.
 [Tableau Data](https://public.tableau.com/shared/26D3JZ83F?:display_count=n&:origin=viz_share_link)
