@@ -12,9 +12,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 -->
 # Upgrad Bike Assignment using SQL and Tableau
 
-<div class='tableauPlaceholder' id='viz1646501497926' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;BikeAssignment&#47;BikeStationGeographicalPlot?:language=en-US&amp;:embed=true' /> <param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1646501497926');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+![BikeAssignment](./assets/img/BikeAssignment.png)
 
 This is a Masters program assignment using an open-source dataset on bike-sharing.
+[Tableau Data](https://public.tableau.com/shared/26D3JZ83F?:display_count=n&:origin=viz_share_link)
 
 <!--
 ## Header 2
